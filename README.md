@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Best golang programmer<br>💬 Shoot me:<br>      1. TG: t.me/defany<br>      2. Email: dmitrii.mileris@gmail.com
+🔭 Best golang programmer<br>💬 Shoot me:<br>      1. Telegram: t.me/defany<br>      2. Email: dmitrii.mileris@gmail.com
 
 
 # 💻 Tech Stack:
