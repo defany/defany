@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying and working on Golang<br>💬 Shoot me:<br>      1.  VK: @defany<br>      2. TG: @defanJI<br>      3. Email: defany@vk.com
+🔭 Best golang programmer<br>💬 Shoot me:<br>      1. TG: t.me/defany<br>      2. Email: dmitrii.mileris@gmail.com
 
 
 # 💻 Tech Stack:
