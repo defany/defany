@@ -32,7 +32,7 @@ var me = Engineer{
 ## 🛠 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,bun,nestjs,express,prisma&theme=dark&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,bun,nestjs,express,prisma&theme=dark&perline=8"/><img src="assets/fastify.svg" alt="Fastify"/>
   <br/>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,githubactions,gitlab,nginx,cloudflare,prometheus,grafana&theme=dark&perline=11"/>
 </p>
