@@ -1,18 +1,76 @@
-# 💫 About Me:
-🔭 Best golang programmer<br>💬 Shoot me:<br>      1. Telegram: t.me/defany<br>      2. Email: dmitrii.mileris@gmail.com
+<div align="center">
 
+<img src="assets/header.svg" width="100%" alt="defany — Go backend engineer"/>
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=defany&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=defany&theme=material-palenight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=defany&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<a href="https://t.me/defany"><img src="https://img.shields.io/badge/Telegram-@defany-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/dmitrii-mileris"><img src="https://img.shields.io/badge/LinkedIn-dmitrii--mileris-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:dmitrii.mileris@gmail.com"><img src="https://img.shields.io/badge/Email-write%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=defany&style=for-the-badge&color=5B4FE9&label=VIEWS"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=defany&theme=nord&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=defany&icon=2&color=1)](https://visitcount.itsvg.in)
+## 👋 About
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```go
+package main
+
+type Engineer struct {
+	Name      string
+	Role      string
+	Education string
+	Languages []string
+}
+
+var me = Engineer{
+	Name:      "Dmitrii Mileris",
+	Role:      "Backend Engineer, owning the backend at Portals",
+	Education: "Computer Science @ TU Dublin",
+	Languages: []string{"Eng", "Ru", "Go", "TypeScript", "SQL"},
+}
+```
+
+## 🛠 Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,bun,nestjs,express,prisma&theme=dark&perline=8"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,githubactions,gitlab,nginx,cloudflare,prometheus,grafana&theme=dark&perline=11"/>
+</p>
+
+<details>
+<summary><b>Full stack</b></summary>
+<br/>
+
+**Languages:** Go, TypeScript, JavaScript, SQL
+
+**Go:** pgx, sqlc, squirrel, go-sqlbuilder, goose, River, gRPC, Connect-RPC, buf/protobuf, Fiber, Gin, Chi, slog, zap, viper, telego, Testify, Mockery, testcontainers
+
+**Node.js / TypeScript:** Node.js, Bun, NestJS, Express, Fastify, Prisma, TypeORM, Drizzle, Mongoose, Zod, BullMQ, grammY, Telegraf, vk-io
+
+**Databases:** PostgreSQL, MongoDB, Redis, Dragonfly, S3 / MinIO
+
+**Infrastructure:** Docker, Kubernetes, GitHub Actions, GitLab CI, DigitalOcean, Nginx, Cloudflare, Vault
+
+**Observability:** OpenTelemetry, Prometheus, Grafana
+
+**Payments:** Telegram Stars, Fragment, TON
+
+</details>
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/defany/goblin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=defany&repo=goblin&theme=tokyonight&hide_border=true&bg_color=0d1117"/></a>
+  <a href="https://github.com/defany/govk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=defany&repo=govk&theme=tokyonight&hide_border=true&bg_color=0d1117"/></a>
+  <a href="https://github.com/defany/slogger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=defany&repo=slogger&theme=tokyonight&hide_border=true&bg_color=0d1117"/></a>
+  <a href="https://github.com/defany/db"><img src="https://github-readme-stats.vercel.app/api/pin/?username=defany&repo=db&theme=tokyonight&hide_border=true&bg_color=0d1117"/></a>
+  <a href="https://github.com/defany/auth-service"><img src="https://github-readme-stats.vercel.app/api/pin/?username=defany&repo=auth-service&theme=tokyonight&hide_border=true&bg_color=0d1117"/></a>
+  <a href="https://github.com/defany/platcom"><img src="https://github-readme-stats.vercel.app/api/pin/?username=defany&repo=platcom&theme=tokyonight&hide_border=true&bg_color=0d1117"/></a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=defany&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_title=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defany&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_title=true"/>
+</p>
